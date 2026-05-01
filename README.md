@@ -68,10 +68,7 @@ I’m not just learning to code; I’m learning to craft worlds.*
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-<!-- Game Over Screen Pixel Art GIF -->
-<p align="center">
-  <img src="https://media4.giphy.com/media/3o7aD2sa1B2bZmFygg/giphy.gif" width="100" />
-</p>
+
 
 > “Any sufficiently advanced technology is indistinguishable from magic.” – Arthur C. Clarke  
 > I’m crafting that magic, one commit at a time.
