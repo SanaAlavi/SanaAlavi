@@ -33,17 +33,6 @@ I’m not just learning to code; I’m learning to craft worlds.*
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-## ⚡ Currently Amplifying
-
-- 📚 Learning MySQL, data structures, and preparing for the full-stack summer sprint (PHP, JS, SQL)
-- 🧠 Exploring ML fundamentals – linear algebra, probability, and PyTorch
-- 🎮 Refactoring my Unity games to include online leaderboards
-- 📐 Reading about RISC‑V and modern processor design in my free time
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
-
 ## 🤖 Tech Stack & Tools
 
 <p align="center">
@@ -62,6 +51,18 @@ I’m not just learning to code; I’m learning to craft worlds.*
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+## ⚡ Currently Amplifying
+
+- 📚 Learning MySQL, data structures, and preparing for the full-stack summer sprint (PHP, JS, SQL)
+- 🧠 Exploring ML fundamentals – linear algebra, probability, and PyTorch
+- 🎮 Refactoring my Unity games to include online leaderboards
+- 📐 Reading about RISC‑V and modern processor design in my free time
+
 
 <!-- Cool animated footer divider -->
 <p align="center">
