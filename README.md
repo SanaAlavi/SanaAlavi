@@ -33,16 +33,6 @@ I’m not just learning to code; I’m learning to craft worlds.*
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
-## ⚡ Currently Amplifying
-
-- 📚 Learning MySQL, data structures, and preparing for the full-stack summer sprint (PHP, JS, SQL)
-- 🧠 Exploring ML fundamentals – linear algebra, probability, and PyTorch
-- 🎮 Refactoring my Unity games to include online leaderboards
-- 📐 Reading about RISC‑V and modern processor design in my free time
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
 
 ## 🤖 Tech Stack & Tools
 
@@ -63,12 +53,21 @@ I’m not just learning to code; I’m learning to craft worlds.*
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-<!-- Cool animated footer divider -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
+## ⚡ Currently Amplifying
 
+- 📚 Learning MySQL, data structures, and preparing for the full-stack summer sprint (PHP, JS, SQL)
+- 🧠 Exploring ML fundamentals – linear algebra, probability, and PyTorch
+- 🎮 Refactoring my Unity games to include online leaderboards
+- 📐 Reading about RISC‑V and modern processor design in my free time
+
+<!-- Cool animated footer divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
 
 > “Any sufficiently advanced technology is indistinguishable from magic.” – Arthur C. Clarke  
 > I’m crafting that magic, one commit at a time.
